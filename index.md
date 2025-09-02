@@ -15,6 +15,15 @@ This is a smaller header
 def greet(name):
     return f"Hello, {name}!"
 
-print(greet("Ziya"))
+print(greet("Ziya")) 
+ ```
+
+## Task List
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Merge pull request
+
 
 
