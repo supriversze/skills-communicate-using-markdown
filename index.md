@@ -9,3 +9,12 @@ This is a smaller header
 ## Adding an Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Adding a Code Example
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Ziya"))
+
+
